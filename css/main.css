@@ -11,3 +11,7 @@ h1 a:focus {
     text-emphasis: dot;
     -webkit-text-emphasis: dot;
 }
+
+.tankas {
+    white-space: nowrap
+}
