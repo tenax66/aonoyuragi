@@ -3,6 +3,11 @@ h1 a:visited,
 h1 a:hover,
 h1 a:active,
 h1 a:focus {
-  color: inherit;
-  text-decoration: none;
+    color: inherit;
+    text-decoration: none;
+}
+
+.emphasis {
+    text-emphasis: dot;
+    -webkit-text-emphasis: dot;
 }
